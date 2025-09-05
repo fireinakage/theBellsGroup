@@ -1,0 +1,68 @@
+body {
+  /* Add styles here! */
+background: #FFF3CD;
+}
+h1 {
+  text-align: center;
+  font-size: 70px;
+  color: #FF926B;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Trebuchet MS', sans-serif;
+  color: #4D3E3E;
+}
+
+p {
+  text-align: center;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+ol {
+  font-family: 'Trebuchet MS', sans-serif;
+  color: #4D3E3E;
+}
+
+ul {
+  font-family: 'Trebuchet MS', sans-serif;
+  color: #4D3E3E;
+}
+
+nav {
+  background: #FFC38B;
+  color: blanchedalmond;  
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 25px;
+  height: 30px;
+ /* Font does not look good on iPad, specfically for the navbar */
+}
+
+hr {
+  border-color: #FFC38B;
+}
+
+a {
+  color: #4D3E3E;
+}
+
+.nav-link {
+  color: #FF926B;
+}
+
+.logo {
+  width: 450px;
+  margin: auto;
+  display: block;
+}
+
+.list {
+  text-align: left
+}
+.zoe {
+  width:450px;
+  margin: auto;
+  
+}
+
